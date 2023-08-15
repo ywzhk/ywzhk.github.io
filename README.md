@@ -13,6 +13,7 @@ I'm Yuwen Zhang, a dedicated Business Data Analyst with a passion for turning da
 
 - **The Education University of Hong Kong**: Master's Degree, Business Education and HR Development (2022-2023)
 - **Udacity**: Business Analytics Nanodegree, Data Analytics (2022)
+![Business Analytics Certificate](https://ywzhk.github.io/Business%20Analytics%20Certificate.jpg)
 - **Wuhan Textile University**: BCom, International Economics and Trade (2012-2016)
 
 ---
@@ -90,6 +91,7 @@ The equations for the financial forecast are as follows:
 
 - **Mandarin**: Native
 - **English**: Fluent, IELTS 6.0
+![Business English](https://ywzhk.github.io/Business%20English.png)
 - **Cantonese**: Beginner
 - **Interests**: Continuous Learning, Business Intelligence, Community Outreach
 
