@@ -48,9 +48,27 @@ I'm Yuwen Zhang, a dedicated Business Data Analyst with a passion for turning da
 
 ### **Excel Project: NYSE Data Analysis**
 - **[Project Excel](https://docs.google.com/spreadsheets/d/1dMRPPecC44VGlS_V8dq1iBnbZM4RAGZE/edit?usp=drive_link&ouid=108811616458161862638&rtpof=true&sd=true)**
-  - Analyzed NYSE industry distribution, revenue, and financial forecasts.
-  - Visualized data using Pivot tables and charts.
-  - Conducted financial forecast based on historical trends.
+**Task 3: Financial Forecast**
+
+A financial forecast was conducted using historical data. Assumptions were made for revenue growth, gross margin, and operating margin. Three scenarios were considered: 
+
+- Weak (lowest value from history)
+- Base (average value from history)
+- Strong (highest value from history)
+
+Predicted revenue, gross profit, and operating income were calculated using the assumed growth rates and the current year's financial figures.
+
+Based on history:
+
+- Revenue growth = (Next Year Revenue / Current Year Revenue) - 1
+- Gross margin = 1 - (Cost of Goods / Total Revenue)
+- Operating margin = Operating Profit / Total Revenue
+
+The equations for the financial forecast are as follows:
+
+- Predicted Revenue = Current Year Revenue * (1 + Assumed Revenue Growth)
+- Predicted Gross Profit = Current Year Gross Profit * (1 + Assumed Gross Margin)
+- Predicted Operating Income = Predicted Revenue * Assumed Operating Margin
 
 ---
 
