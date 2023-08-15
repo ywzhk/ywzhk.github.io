@@ -59,18 +59,6 @@ A financial forecast was conducted using historical data. Assumptions were made 
 
 Predicted revenue, gross profit, and operating income were calculated using the assumed growth rates and the current year's financial figures.
 
-Based on history:
-
-- Revenue growth = (Next Year Revenue / Current Year Revenue) - 1
-- Gross margin = 1 - (Cost of Goods / Total Revenue)
-- Operating margin = Operating Profit / Total Revenue
-
-The equations for the financial forecast are as follows:
-
-- Predicted Revenue = Current Year Revenue * (1 + Assumed Revenue Growth)
-- Predicted Gross Profit = Current Year Gross Profit * (1 + Assumed Gross Margin)
-- Predicted Operating Income = Predicted Revenue * Assumed Operating Margin
-
 ---
 
 ## 🛠️ Skills
