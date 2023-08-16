@@ -20,7 +20,7 @@ I'm Yuwen Zhang, a dedicated Business Data Analyst with a passion for turning da
 
 ## 💼 Professional Experience
 
-- **Assistant Analyst, E-commerce Department**: Textile Company, Shenzhen (2016-2022)
+- **PurCotton Technology Co., Ltd / Business Analyst/ Key Account (KA) Department**
   - Strategic data analysis using Excel and SQL.
   - Tableau reporting and BI support.
   - Analytical report creation in Word and PowerPoint.
